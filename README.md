@@ -11,7 +11,7 @@ the aray of numbers is [19,2,31,45,6,11,121,27].
 
 ### Dependencies
 
-* pyhton is required to be install on your operating system. as this is the simplest algorithm. it does not have much dependencies.
+* pyhton is required on your operating system. As this is the simplest algorithm it does not have much dependencies.
 
 ### Executing program
 
