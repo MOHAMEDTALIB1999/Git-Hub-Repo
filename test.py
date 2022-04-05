@@ -1,3 +1,4 @@
+#bubble sort algorithm to sort the list of numbers
 def bubblesort(list):
 
 # Swap the elements to arrange in order
